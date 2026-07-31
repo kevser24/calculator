@@ -378,6 +378,6 @@ C:/Users/asus/Desktop/QtProjeler/calculator/mainwindow.h
  mdp:C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/wchar.h
  mdp:C:/Users/asus/Desktop/QtProjeler/calculator/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/calculator_autogen/moc_predefs.h
  mdp:C:/Users/asus/Desktop/QtProjeler/calculator/mainwindow.h
-C:/Users/asus/Desktop/QtProjeler/calculator/main.cpp
 C:/Users/asus/Desktop/QtProjeler/calculator/mainwindow.cpp
  uic:ui_mainwindow.h
+C:/Users/asus/Desktop/QtProjeler/calculator/main.cpp
